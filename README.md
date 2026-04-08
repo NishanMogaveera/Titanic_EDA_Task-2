@@ -32,27 +32,27 @@ The analysis focuses on:
 ---
 
 ## 🔍 EDA Steps Performed
-### ✅ 1. Data Inspection
+###  1. Data Inspection
 - Loaded dataset using pandas
 - Checked shape, datatypes, missing values
 
-### ✅ 2. Summary Statistics
+###  2. Summary Statistics
 - Used `describe()` for statistical summary
 
-### ✅ 3. Distribution Analysis
+###  3. Distribution Analysis
 - Age distribution histogram
 - Fare distribution boxplot
 - Survival countplots
 
-### ✅ 4. Correlation Analysis
+###  4. Correlation Analysis
 - Correlation heatmap
 - Survival relationship with Fare and Passenger Class
 
-### ✅ 5. Outlier Detection
+###  5. Outlier Detection
 - Fare boxplot used to detect extreme ticket prices
 - Identified luxury first-class fare outliers
 
-### ✅ 6. Advanced Visualization
+###  6. Advanced Visualization
 - Pairplot for multivariate analysis
 
 ---
