@@ -77,5 +77,15 @@ The analysis focuses on:
 
 ## 📷 Project Screenshots
 ### Dataset Overview
+<img width="1184" height="242" alt="Screenshot 2026-04-08 124212" src="https://github.com/user-attachments/assets/dee0dc8e-33cb-42c9-9cfe-90ae5dc68587" />
+
+### Survival by Gender
+<img width="908" height="582" alt="Screenshot 2026-04-08 124233" src="https://github.com/user-attachments/assets/c8b9a0bb-6fcd-4d79-9d11-2b9f6bc2bbce" />
+
+### Heatmap
+<img width="1148" height="760" alt="Screenshot 2026-04-08 124254" src="https://github.com/user-attachments/assets/c47d5883-bde5-443f-a181-ad194f9b5481" />
+
+
+
 
 
