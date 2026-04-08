@@ -13,7 +13,6 @@ The analysis focuses on:
 - Multivariate visualization
 - Insight generation
 
---- 
 
 ## 📂 Dataset Used
 - **Dataset:** Titanic Dataset
@@ -21,7 +20,6 @@ The analysis focuses on:
 - **Columns:** 12
 - **Type:** Mixed numerical + categorical data
 
----
 
 ## 🛠️ Tools & Libraries
 - Python
